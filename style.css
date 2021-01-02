@@ -1,0 +1,32 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: purple;
+}
+
+h2{
+  color:pink;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.left, .right{
+  width: 70vh;
+}
+
+img{
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
+
+a.a:visited{
+  color: DodgerBlue;
+}
